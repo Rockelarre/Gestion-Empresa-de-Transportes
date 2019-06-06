@@ -1,0 +1,23 @@
+C:\Users\Rbeldano\Desktop\MBECERRA\test\3cw_s1_2019\Negocio\bin\Debug\Negocio.dll
+C:\Users\Rbeldano\Desktop\MBECERRA\test\3cw_s1_2019\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Rbeldano\Desktop\MBECERRA\test\3cw_s1_2019\Negocio\bin\Debug\Datos.dll
+C:\Users\Rbeldano\Desktop\MBECERRA\test\3cw_s1_2019\Negocio\bin\Debug\Datos.pdb
+C:\Users\Rbeldano\Desktop\MBECERRA\test\3cw_s1_2019\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Rbeldano\Desktop\MBECERRA\test\3cw_s1_2019\Negocio\obj\Debug\Negocio.dll
+C:\Users\Rbeldano\Desktop\MBECERRA\test\3cw_s1_2019\Negocio\obj\Debug\Negocio.pdb
+C:\Users\jarangom\Desktop\Sol_3_Capas\3cw_s1_2019\Negocio\bin\Debug\Negocio.dll
+C:\Users\jarangom\Desktop\Sol_3_Capas\3cw_s1_2019\Negocio\bin\Debug\Negocio.pdb
+C:\Users\jarangom\Desktop\Sol_3_Capas\3cw_s1_2019\Negocio\bin\Debug\Datos.dll
+C:\Users\jarangom\Desktop\Sol_3_Capas\3cw_s1_2019\Negocio\bin\Debug\Datos.pdb
+C:\Users\jarangom\Desktop\Sol_3_Capas\3cw_s1_2019\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\jarangom\Desktop\Sol_3_Capas\3cw_s1_2019\Negocio\obj\Debug\Negocio.dll
+C:\Users\jarangom\Desktop\Sol_3_Capas\3cw_s1_2019\Negocio\obj\Debug\Negocio.pdb
+D:\5toSemestre\Programacion Avanzada de Aplicaciones\Prueba_3\Pruebas\Prueba_3c\Negocio\bin\Debug\Negocio.dll
+D:\5toSemestre\Programacion Avanzada de Aplicaciones\Prueba_3\Pruebas\Prueba_3c\Negocio\bin\Debug\Negocio.pdb
+D:\5toSemestre\Programacion Avanzada de Aplicaciones\Prueba_3\Pruebas\Prueba_3c\Negocio\bin\Debug\Datos.dll
+D:\5toSemestre\Programacion Avanzada de Aplicaciones\Prueba_3\Pruebas\Prueba_3c\Negocio\bin\Debug\Datos.pdb
+D:\5toSemestre\Programacion Avanzada de Aplicaciones\Prueba_3\Pruebas\Prueba_3c\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\5toSemestre\Programacion Avanzada de Aplicaciones\Prueba_3\Pruebas\Prueba_3c\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\5toSemestre\Programacion Avanzada de Aplicaciones\Prueba_3\Pruebas\Prueba_3c\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\5toSemestre\Programacion Avanzada de Aplicaciones\Prueba_3\Pruebas\Prueba_3c\Negocio\obj\Debug\Negocio.dll
+D:\5toSemestre\Programacion Avanzada de Aplicaciones\Prueba_3\Pruebas\Prueba_3c\Negocio\obj\Debug\Negocio.pdb

@@ -1,0 +1,15 @@
+C:\Users\Rbeldano\Desktop\MBECERRA\test\3cw_s1_2019\Datos\bin\Debug\Datos.dll
+C:\Users\Rbeldano\Desktop\MBECERRA\test\3cw_s1_2019\Datos\bin\Debug\Datos.pdb
+C:\Users\Rbeldano\Desktop\MBECERRA\test\3cw_s1_2019\Datos\obj\Debug\Datos.dll
+C:\Users\Rbeldano\Desktop\MBECERRA\test\3cw_s1_2019\Datos\obj\Debug\Datos.pdb
+C:\Users\jarangom\Desktop\Sol_3_Capas\3cw_s1_2019\Datos\bin\Debug\Datos.dll
+C:\Users\jarangom\Desktop\Sol_3_Capas\3cw_s1_2019\Datos\bin\Debug\Datos.pdb
+C:\Users\jarangom\Desktop\Sol_3_Capas\3cw_s1_2019\Datos\obj\Debug\Datos.dll
+C:\Users\jarangom\Desktop\Sol_3_Capas\3cw_s1_2019\Datos\obj\Debug\Datos.pdb
+C:\Users\jarangom\Desktop\Sol_3_Capas\3cw_s1_2019\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\5toSemestre\Programacion Avanzada de Aplicaciones\Prueba_3\Pruebas\Prueba_3c\Datos\bin\Debug\Datos.dll
+D:\5toSemestre\Programacion Avanzada de Aplicaciones\Prueba_3\Pruebas\Prueba_3c\Datos\bin\Debug\Datos.pdb
+D:\5toSemestre\Programacion Avanzada de Aplicaciones\Prueba_3\Pruebas\Prueba_3c\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+D:\5toSemestre\Programacion Avanzada de Aplicaciones\Prueba_3\Pruebas\Prueba_3c\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\5toSemestre\Programacion Avanzada de Aplicaciones\Prueba_3\Pruebas\Prueba_3c\Datos\obj\Debug\Datos.dll
+D:\5toSemestre\Programacion Avanzada de Aplicaciones\Prueba_3\Pruebas\Prueba_3c\Datos\obj\Debug\Datos.pdb

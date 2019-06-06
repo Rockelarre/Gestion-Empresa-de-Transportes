@@ -1,0 +1,30 @@
+C:\Users\Rbeldano\Desktop\MBECERRA\test\3cw_s1_2019\Presentacion\bin\Presentacion.dll
+C:\Users\Rbeldano\Desktop\MBECERRA\test\3cw_s1_2019\Presentacion\bin\Presentacion.pdb
+C:\Users\Rbeldano\Desktop\MBECERRA\test\3cw_s1_2019\Presentacion\bin\Negocio.dll
+C:\Users\Rbeldano\Desktop\MBECERRA\test\3cw_s1_2019\Presentacion\bin\Datos.dll
+C:\Users\Rbeldano\Desktop\MBECERRA\test\3cw_s1_2019\Presentacion\bin\Negocio.pdb
+C:\Users\Rbeldano\Desktop\MBECERRA\test\3cw_s1_2019\Presentacion\bin\Datos.pdb
+C:\Users\Rbeldano\Desktop\MBECERRA\test\3cw_s1_2019\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Rbeldano\Desktop\MBECERRA\test\3cw_s1_2019\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\Rbeldano\Desktop\MBECERRA\test\3cw_s1_2019\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\jarangom\Desktop\Sol_3_Capas\3cw_s1_2019\Presentacion\bin\Presentacion.dll
+C:\Users\jarangom\Desktop\Sol_3_Capas\3cw_s1_2019\Presentacion\bin\Presentacion.pdb
+C:\Users\jarangom\Desktop\Sol_3_Capas\3cw_s1_2019\Presentacion\bin\Negocio.dll
+C:\Users\jarangom\Desktop\Sol_3_Capas\3cw_s1_2019\Presentacion\bin\Datos.dll
+C:\Users\jarangom\Desktop\Sol_3_Capas\3cw_s1_2019\Presentacion\bin\Negocio.pdb
+C:\Users\jarangom\Desktop\Sol_3_Capas\3cw_s1_2019\Presentacion\bin\Datos.pdb
+C:\Users\jarangom\Desktop\Sol_3_Capas\3cw_s1_2019\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\jarangom\Desktop\Sol_3_Capas\3cw_s1_2019\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\jarangom\Desktop\Sol_3_Capas\3cw_s1_2019\Presentacion\obj\Debug\Presentacion.pdb
+D:\5toSemestre\Programacion Avanzada de Aplicaciones\Prueba_3\Pruebas\Prueba_3c\Presentacion\bin\Presentacion.dll.config
+D:\5toSemestre\Programacion Avanzada de Aplicaciones\Prueba_3\Pruebas\Prueba_3c\Presentacion\bin\Presentacion.dll
+D:\5toSemestre\Programacion Avanzada de Aplicaciones\Prueba_3\Pruebas\Prueba_3c\Presentacion\bin\Presentacion.pdb
+D:\5toSemestre\Programacion Avanzada de Aplicaciones\Prueba_3\Pruebas\Prueba_3c\Presentacion\bin\Negocio.dll
+D:\5toSemestre\Programacion Avanzada de Aplicaciones\Prueba_3\Pruebas\Prueba_3c\Presentacion\bin\Datos.dll
+D:\5toSemestre\Programacion Avanzada de Aplicaciones\Prueba_3\Pruebas\Prueba_3c\Presentacion\bin\Negocio.pdb
+D:\5toSemestre\Programacion Avanzada de Aplicaciones\Prueba_3\Pruebas\Prueba_3c\Presentacion\bin\Datos.pdb
+D:\5toSemestre\Programacion Avanzada de Aplicaciones\Prueba_3\Pruebas\Prueba_3c\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+D:\5toSemestre\Programacion Avanzada de Aplicaciones\Prueba_3\Pruebas\Prueba_3c\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\5toSemestre\Programacion Avanzada de Aplicaciones\Prueba_3\Pruebas\Prueba_3c\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\5toSemestre\Programacion Avanzada de Aplicaciones\Prueba_3\Pruebas\Prueba_3c\Presentacion\obj\Debug\Presentacion.dll
+D:\5toSemestre\Programacion Avanzada de Aplicaciones\Prueba_3\Pruebas\Prueba_3c\Presentacion\obj\Debug\Presentacion.pdb
